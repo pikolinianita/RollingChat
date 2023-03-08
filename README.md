@@ -1,2 +1,36 @@
 # RollingChat
 Front for czat with dices
+
+- top component
+  - [ ] header and footer
+  - [ ] choice of room and nick
+  - [ ] login/logout
+- chat component
+  - [ ] connect to back
+  - [ ] sending messages
+  - [ ] display rolls?
+- dices component
+  - [ ] simple dices and rolls
+  - [ ] display rolls on chat
+  - [ ] delay
+  - [ ] rolls with mods
+  - [ ] create custom rolls / macros
+  - [ ] save custom rolls / macros
+  - [ ] cards
+  - [ ] sets of cards/dices
+- options window
+  - [ ] set complex macros (2d3 + 7)
+  - [ ] (!roll) from list - simple message to chat
+  - [ ] save macros in backend
+  - [ ] make some public 
+  - [ ] make some for friends
+  - [ ] make profile
+  - [ ] make favorite macros
+  - [ ] make people friends
+- state component
+  - [ ] display state
+  - [ ] modify state
+  - [ ] save state
+  - [ ] including sets of cards
+- help
+- 
